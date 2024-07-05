@@ -1,4 +1,4 @@
-baseURL = "http://noah-pitts.github.io/noahworld"
+baseURL = "http://noah-pitts.github.io/"
 title = "Noah Pitts"
 theme = "hugo-coder"
 languageCode = "en"
