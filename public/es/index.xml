@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noah Pitts</title>
+    <link>http://localhost:1313/es/</link>
+    <description>Recent content on Noah Pitts</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Hola Mundo!</title>
+      <link>http://localhost:1313/es/posts/hello-world/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/posts/hello-world/</guid>
+      <description>*** TRANSLATED BY CHATGPT ***&#xA;¡Bienvenidos a mi sitio web!&#xA;Últimamente me he enfocado intensamente en llevar mis habilidades como desarrollador al siguiente nivel. Sigo escuchando una voz en mi cabeza que me dice que puedo ser bueno en esto, y estoy en el punto en el que estoy listo para escucharla.&#xA;Aquí les dejo un poco de mi historia:&#xA;Nací en Hoover, Alabama, soy el hijo del medio. Me gradué con un título en Ingeniería Mecánica.</description>
+    </item>
+    <item>
+      <title>10 Preguntas Sobre Mí</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description>I USED CHATGPT. I DONT KNOW SPANISH LIKE THAT (YET!!)&#xA;1. ¿Cuál es tu cualidad favorita de ti mismo/a?&#xD;Link to heading&#xD;Mi amor por aprender y por las personas.&#xD;2. ¿En qué eres realmente malo/a?&#xD;Link to heading&#xD;Química&#xD;3. ¿Qué buscas al hacer nuevos amigos?&#xD;Link to heading&#xD;Autenticidad&#xD;4. ¿Crees en la astrología? ¿Por qué sí o por qué no?&#xD;Link to heading&#xD;&amp;quot;Crees&amp;quot; es una palabra fuerte, pero tiene algo de sentido.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/es/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/contact/</guid>
+      <description>correo electrónico me: noah@arkdatastudios.com&#xD;Link to heading&#xD;LinkedIn me: LinkedIn&#xD;Link to heading&#xD;EN - Note: I am a spanish NOVICE. I&amp;rsquo;m just really interested in Human Language. I am only fluent in English (for now)&#xA;ESP - Nota: Soy un PRINCIPIANTE español. Estoy realmente interesado en el lenguaje humano. Solo hablo inglés con fluidez (por ahora)</description>
+    </item>
+  </channel>
+</rss>
