@@ -24,7 +24,7 @@ Inspired.
  
  In this film, protagonist Maxine Minx is hungry, and is continuing her quest to becoming a STAR.
 
- I also feel like im on a quest to feel like a STAR, so seeing her journey just really speaks to me in a way I cant fully explain (yet).
+ I also feel like im on a quest to feel like a STAR, so seeing her journey just really speaks to me in a way I can't fully explain (yet).
  
 
 ## Final thoughts on MaXXXine 
