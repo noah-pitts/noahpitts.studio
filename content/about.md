@@ -9,7 +9,7 @@ author = "Noah Pitts"
 
 #### 1. What’s your favorite quality about yourself? 
 
-        My love of learning and people.
+        I'm Spontaneous 
 
 #### 2. What’s something you’re really bad at? 
         
