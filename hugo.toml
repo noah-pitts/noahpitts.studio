@@ -22,6 +22,10 @@ keywords = "blog,developer,personal"
 info = ["Hello/ Hola/ Bonjour/ Namaste/ Hallo 👋🏾","I Love Data <3"]
 #avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
+
+faviconSVG = "/images/NP_favicon.svg"
+
+
 dateFormat = "January 2, 2006"
 since = 2024
 # Git Commit in Footer, uncomment the line below to enable it

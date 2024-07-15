@@ -9,11 +9,11 @@
     <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/es/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World!</title>
+      <title>¡Hola Mundo!</title>
       <link>http://localhost:1313/es/posts/hello-world/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to my website!&lt;/p&gt;</description>
+      <description>*** TRANSLATED BY CHATGPT ***&#xA;¡Bienvenidos a mi sitio web!&#xA;Últimamente me he enfocado intensamente en llevar mis habilidades como desarrollador al siguiente nivel. Sigo escuchando una voz en mi cabeza que me dice que puedo ser bueno en esto, y estoy en el punto en el que estoy listo para escucharla.&#xA;Aquí les dejo un poco de mi historia:&#xA;Nací en Hoover, Alabama, soy el hijo del medio. Me gradué con un título en Ingeniería Mecánica.</description>
     </item>
   </channel>
 </rss>

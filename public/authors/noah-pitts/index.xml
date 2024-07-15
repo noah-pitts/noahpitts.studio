@@ -6,14 +6,21 @@
     <description>Recent content on Noah Pitts</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/authors/noah-pitts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Movie Review: MaXXXine</title>
+      <link>http://localhost:1313/posts/maxxxine/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/maxxxine/</guid>
+      <description>MaXXXine&#xD;Link to heading&#xD;MaXXXine is a 2024 thriller film written, directed, produced, and edited by Ti West. This is the thrid film in the trilogy, and I am a big fan of the first two. So much so, I decided to treat the night as a double feature, and watched Pearl beforehand. I was really excited walking into the theatre for this one!&#xA;Thoughts on MaXXXine&#xD;Link to heading&#xD;I loved it.</description>
+    </item>
+    <item>
       <title>Hello World!</title>
-      <link>http://localhost:1313/posts/first_post/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first_post/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to my website!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
