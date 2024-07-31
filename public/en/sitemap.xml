@@ -138,6 +138,8 @@
                 href="http://localhost:1313/tags/text/"
                 />
   </url><url>
+    <loc>http://localhost:1313/posts/hands-on-keys/</loc>
+  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"

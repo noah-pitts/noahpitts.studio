@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on Noah Pitts</title>
+    <link>http://localhost:1313/categories/announcement/</link>
+    <description>Recent content in Announcement on Noah Pitts</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to HANDS ON KEYS</title>
+      <link>http://localhost:1313/posts/hands-on-keys/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hands-on-keys/</guid>
+      <description>What is HANDS ON KEYS?&#xD;Link to heading&#xD;HANDS ON KEYS is a tech blog for developers. I&amp;rsquo;m hoping to provide as much value to developers as I possibly can, and will do so from a &amp;ldquo;hands on&amp;rdquo; perspective.</description>
+    </item>
+  </channel>
+</rss>
