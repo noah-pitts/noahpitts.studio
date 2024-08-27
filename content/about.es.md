@@ -6,52 +6,16 @@ aliases = ["sobre-nosotros", "sobre-hugo", "sobre"]
 author = "Noah Pitts"
 +++
 
-***I USED CHATGPT. I DONT KNOW SPANISH LIKE THAT (YET!!)***
+Hola - Bienvenido a mi estudio.
 
-#### 1. ¿Cuál es tu cualidad favorita de ti mismo/a?
+Mi nombre es Noah - trabajo con **data** durante el día y con **art** por la noche.
 
-        Mi amor por aprender y por las personas.
+Actualmente estoy creando sitios web, gestionando blogs, escribiendo historias y dando vida a mis ideas.
 
-#### 2. ¿En qué eres realmente malo/a?
+Si deseas ponerte en contacto, por favor dirígete a la página de "Contact Me" - espero con interés tu mensaje.
 
-        Química
+# 📸 Las Photos
 
-#### 3. ¿Qué buscas al hacer nuevos amigos?
+Mis fotos favoritas:
 
-        Autenticidad
-
-#### 4. ¿Crees en la astrología? ¿Por qué sí o por qué no?
-
-        "Crees" es una palabra fuerte, pero tiene algo de sentido.
-         ¡Saludos a mis Géminis de mayo ♊!
-
-#### 5. ¿Qué celebridad elegirías como mentor/a?
-
-        Kendrick Lamar
-        Alvin Alexander
-
-#### 6. Si comenzaras un negocio, ¿qué sería?
-
-        ARK DATA STUDIOS
-        [Medium](https://medium.com/@arkdatastudios/the-sole-proprietor-9bcd96ec2bbf)
-
-#### 7. ¿Cuál es una película que podrías ver todos los días?
-
-        Rush Hour 1/2
-
-#### 8. Si tuvieras la oportunidad de rediseñar la sociedad, ¿qué cambiarías?
-
-        Haría que la tecnología nos sirviera a nosotros y no al revés.
-
-#### 9. ¿En qué lenguaje de programación sueñas?
-
-        Cambia. Solía ser Scala, ahora es Python.
-
-#### 10. ¿Por qué te apasiona la data?
-
-        Ha cambiado mi vida de muchas maneras.
-        He conocido a personas geniales.
-        He hecho cosas realmente interesantes.
-        He estado en lugares muy interesantes.
-
-        ¡Todo gracias a mi amor y pasión por los datos!
+![Montreal #1](/images/manofmontreal.jpg) ![Montreal #2](/images/beaverpray.jpg) ![Paris #1](/images/lamaisaonrose.jpg) ![Toronto #1](/images/snakes.jpg)  ![Texas #2](/images/2thumbs.jpg) ![Texas #1](/images/artofthebrick.jpg) ![Air #1](/images/solo_traveler.jpg) ![Chicago #1](/images/chicagoland.jpg) ![Texas #3](/images/houseoflights.jpg) ![water #1](/images/water.jpg)
