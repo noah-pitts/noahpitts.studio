@@ -6,8 +6,15 @@
     <description>Recent content on Noah Pitts</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hello - Welcome to my studio.&#xA;My name is Noah - I do data by day, and art by night.&#xA;I&amp;rsquo;m currently building websites, running blogs, writing stories, and bringing my ideas to life.&#xA;If you would like to reach out, please head to the &amp;ldquo;Contact Me&amp;rdquo; page - I look forward to hearing from you.&#xA;Here are some of my favorite pictures I&amp;rsquo;ve taken over the years:</description>
+    </item>
     <item>
       <title>My First YouTube Video!</title>
       <link>http://localhost:1313/posts/first-yt-vid/</link>
@@ -28,13 +35,6 @@
       <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/maxxxine/</guid>
       <description>MaXXXine&#xD;Link to heading&#xD;MaXXXine is a 2024 thriller film written, directed, produced, and edited by Ti West. This is the thrid film in the trilogy, and I am a big fan of the first two. So much so, I decided to treat the night as a double feature, and watched Pearl beforehand. I was really excited walking into the theatre for this one!&#xA;Thoughts on MaXXXine&#xD;Link to heading&#xD;I loved it.</description>
-    </item>
-    <item>
-      <title>10 Questions About Me</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>1. What’s your favorite quality about yourself?&#xD;Link to heading&#xD;I&#39;m Spontaneous 2. What’s something you’re really bad at?&#xD;Link to heading&#xD;Chemistry&#xD;3. What do you look for when finding new friends?&#xD;Link to heading&#xD;Authenticity&#xD;4. Do you believe in astrology? Why or why not?&#xD;Link to heading&#xD;&amp;quot;Believe&amp;quot; is a strong word, but it&#39;s onto something.&#xD;Shoutout to my May Gemini&#39;s ♊ 5. Which celebrity would you choose as a mentor?</description>
     </item>
     <item>
       <title>Hello World!</title>
