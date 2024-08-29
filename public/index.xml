@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hello - Welcome to my studio.&#xA;My name is Noah - I do data by day, and art by night.&#xA;I&amp;rsquo;m currently building websites, running blogs, writing stories, and bringing my ideas to life.&#xA;If you would like to reach out, please head to the &amp;ldquo;Contact Me&amp;rdquo; page - I look forward to hearing from you.&#xA;📸 Pictures&#xD;Link to heading&#xD;Here are some of my favorite pictures I&amp;rsquo;ve taken over the years:</description>
+      <description>Hello - Welcome to my studio!&#xA;My name is Noah.&#xA;I&amp;rsquo;m a Data Engineer by day; Artist by night.&#xA;I&amp;rsquo;m currently building websites, running blogs, writing stories, and bringing my ideas to life.&#xA;If you would like to reach out, please head to the &amp;ldquo;Contact&amp;rdquo; page - don&amp;rsquo;t be a stranger!&#xA;📸 Pictures&#xD;Link to heading&#xD;Here are some of my favorite pictures I&amp;rsquo;ve taken over the years:</description>
     </item>
     <item>
       <title>My First YouTube Video!</title>
@@ -51,11 +51,11 @@
       <description>&#xD;Email me: noah@arkdatastudios.com&#xD;Link to heading&#xD;LinkedIn me: LinkedIn&#xD;Link to heading&#xD;</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <title>Work</title>
+      <link>http://localhost:1313/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&amp;ldquo;Side projects + hobbies are important&amp;rdquo; - Austin Kleon&#xD;Link to heading&#xD;My Side Projects:&#xD;Link to heading&#xD;Personal website - noah-pitts.github.io&#xA;Animations with Manim - Animate-With-Manim&#xA;Sattelite Image Timelapses - Satellite-Image-Timelapse&#xA;Introduction to the Cloud - Welcome-to-the-Cloud&#xA;Building ARK DATA STUDIOS (site in pre-alpha) - arkdatastudios.com&#xA;I&amp;rsquo;m also learning to draw and how to write like a good engineer.&#xA;All of these things are a Work-In-Progress (WIP), so ill be updating them as life/ my day job allows!</description>
+      <guid>http://localhost:1313/work/</guid>
+      <description>I have a lot of ideas.&#xA;Here are a few I&amp;rsquo;ve been able to bring to life:&#xA;ARK DATA STUDIOS - My Sole Proprietorship- arkdatastudios&#xA;HANDS ON KEYS - My tech blog - handsonkeys.info&#xA;Parquet773 - My Gaming Channel - Parquet773 on YouTube&#xA;GitHub Work&#xD;Link to heading&#xD;I love to code. It&amp;rsquo;s art to me.&#xA;Here are some of my favorite coding projects I&amp;rsquo;m developing:&#xA;Animations with Manim - Animate-With-Manim</description>
     </item>
   </channel>
 </rss>

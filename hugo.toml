@@ -73,6 +73,18 @@ weight = 4
 url = "https://www.linkedin.com/in/noah-pitts/"
 
 [[params.social]]
+name = "YouTube"
+icon = "fa-brands fa-youtube fa-2x"
+weight = 4
+url = "https://www.youtube.com/@NoahPitts713"
+
+[[params.social]]
+name = "Instagram"
+icon = "fa-brands fa-instagram fa-2x"
+weight = 4
+url = "https://www.instagram.com/arkdatastudios/"
+
+[[params.social]]
 name = "Medium"
 icon = "fa-brands fa-medium fa-2x"
 weight = 5
@@ -93,12 +105,12 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Work"
 weight = 3
-url = "projects/"
+url = "work/"
 
 [[languages.en.menu.main]]
-name = "Contact Me"
+name = "Contact"
 weight = 5
 url = "contact/"
 
@@ -123,9 +135,9 @@ weight = 2
 url = "posts/"
 
 [[languages.es.menu.main]]
-name = "Proyectos"
+name = "Trabajar"
 weight = 3
-url = "projects/"
+url = "work/"
 
 [[languages.es.menu.main]]
 name = "Contacto"

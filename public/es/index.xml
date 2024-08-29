@@ -30,11 +30,11 @@
       <description>correo electrónico me: noah@arkdatastudios.com&#xD;Link to heading&#xD;LinkedIn me: LinkedIn&#xD;Link to heading&#xD;EN - Note: I am a spanish NOVICE. I&amp;rsquo;m just really interested in Human Language. I am only fluent in English (for now)&#xA;ESP - Nota: Soy un PRINCIPIANTE español. Estoy realmente interesado en el lenguaje humano. Solo hablo inglés con fluidez (por ahora)</description>
     </item>
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/es/projects/</link>
+      <title>Trabajo</title>
+      <link>http://localhost:1313/es/trabajo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/projects/</guid>
-      <description>&amp;ldquo;Los proyectos paralelos + hobbies son importantes&amp;rdquo; - Austin Kleon&#xD;Link to heading&#xD;Mis Proyectos Paralelos:&#xD;Link to heading&#xD;Sitio web personal - noah-pitts.github.io&#xA;Animaciones con Manim - Animate-With-Manim&#xA;Lapso de tiempo de imágenes satelitales - Satellite-Image-Timelapse&#xA;Introducción a la Nube - Welcome-to-the-Cloud&#xA;Construcción de ARK DATA STUDIOS (sitio en pre-alfa) - arkdatastudios.com&#xA;También estoy aprendiendo a dibujar y cómo escribir como un buen ingeniero.&#xA;Todos estos proyectos están en Proceso de Desarrollo (WIP), así que los iré actualizando según lo permita la vida / mi trabajo diario.</description>
+      <guid>http://localhost:1313/es/trabajo/</guid>
+      <description>Tengo muchas ideas.&#xA;Aquí hay algunas que he podido llevar a la realidad:&#xA;ARK DATA STUDIOS - Mi empresa individual - arkdatastudios&#xA;HANDS ON KEYS - Mi blog tecnológico - handsonkeys.info&#xA;Parquet773 - Mi canal de videojuegos - Parquet773 en YouTube&#xA;Trabajo en GitHub&#xD;Link to heading&#xD;Me encanta programar. Para mí, es arte.&#xA;Aquí están algunos de mis proyectos de programación favoritos que estoy desarrollando:&#xA;Animaciones con Manim - Animate-With-Manim</description>
     </item>
   </channel>
 </rss>

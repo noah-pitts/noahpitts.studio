@@ -7,13 +7,15 @@ author = "Noah Pitts"
 +++
 
 
-Hello - Welcome to my studio.
+Hello - Welcome to my studio!
 
-My name is Noah - I do **data** by day, and **art** by night.
+My name is Noah.
+
+I'm a **Data Engineer** by day; **Artist** by night.
 
 I'm currently building websites, running blogs, writing stories, and bringing my ideas to *life*.
 
-If you would like to reach out, please head to the "Contact Me" page - I look forward to hearing from you.
+If you would like to reach out, please head to the "Contact" page - don't be a stranger!
 
 
 # 📸 Pictures
